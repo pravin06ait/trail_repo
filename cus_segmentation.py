@@ -143,3 +143,7 @@ print(rfm['Customer_Segment'].value_counts())
 rfm.to_csv("customer_rfm_segmentation.csv", index=False)
 
 print("\nRFM segmentation file saved successfully!")
+print("Successfully completed customer segmentation using RFM analysis.")
+print("RFM segmentation process completed without errors.")
+print("Customer segmentation using RFM analysis executed successfully.")
+print("RFM segmentation completed successfully. Output saved to 'customer_rfm_segmentation.csv'.")
